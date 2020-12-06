@@ -1,0 +1,2 @@
+rootProject.name='LoveCounter'
+include ':app'

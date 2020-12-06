@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonDemo</string>
+    <string name="text">Submit</string>
+    <string name="text2">Home</string>
+</resources>

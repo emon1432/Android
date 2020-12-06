@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+    <string name="textview">*Select any item -</string>
+    <string name="item1">Milk</string>
+    <string name="item2">Sugar</string>
+    <string name="item3">Water</string>
+    <string name="button_text">Order</string>
+
+</resources>
