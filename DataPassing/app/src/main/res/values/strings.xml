@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataPassing</string>
+    <string name="bangladesh_text">welcome to bangladesh</string>
+    <string name="india_text">welcome to india</string>
+    <string name="usa_text">welcome to u.s.a.</string>
+    <string name="pakistan_text">welcome to pakistan</string>
+    <string name="canada_text">welcome to canada</string>
+    <string name="australia_text">welcome to australia</string>
+</resources>
