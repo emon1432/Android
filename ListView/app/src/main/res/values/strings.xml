@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="friends_name">
+        <item>Abir Hossain Raju</item>
+        <item>Nazmul Hassan Bappy</item>
+        <item>Allem Hossain Hasib</item>
+        <item>Sazzad Hossain</item>
+        <item>Naimul Islam</item>
+        <item>Prince Mahamud Hridoy</item>
+        <item>Abu Huzaifa As-Sahmi</item>
+        <item>Wajiha Adhora</item>
+        <item>Priyanka Rani Ghosh</item>
+        <item>Ayesha Akter Toma</item>
+        <item>Tanusrri Toma</item>
+        <item>Fatiha Roza</item>
+        <item>Tamanna Akter</item>
+        <item>Shakil Ahmed Saon</item>
+    </string-array>
+</resources>
